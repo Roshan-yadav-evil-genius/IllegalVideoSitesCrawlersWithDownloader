@@ -1,0 +1,24 @@
+videos-list
+
+scrapy shell -s USER_AGENT='Mozilla/5.0 (X11; Linux x86_64; rv:103.0) Gecko/20100101 Firefox/103.0' https://uncutmaza.xyz
+
+https://ds2play.com/e/kibvexvj31ka
+
+https://ds2play.com/e/kibvexvj31ka
+
+Mozilla/5.0 (X11; Linux x86_64; rv:103.0) Gecko/20100101 Firefox/103.0
+
+- stylesheet 
+- image 
+- media 
+- font 
+- script 
+- texttrack 
+- xhr 
+- fetch 
+- eventsource 
+- websocket 
+- manifest 
+- other
+
+1338091238
